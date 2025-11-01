@@ -1,0 +1,147 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "hasanali777h@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:hasanali777h@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+92 319 6181970",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+923196181970"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/hasan-anwar-55411b196"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Iqra University - 2020",
+        "description": "Completed my Bachelor's in Computer Science(BSCS) from Iqra University North Karachi Campus 2016-2020."
+      },
+      {
+        "title": "Intermediate - 2012",
+        "description": "Completed my intermediate from Govt. Degree Boys College 7D/2 by Sindh Board."
+      },
+      {
+        "title": "Metropolis Academy - 2010",
+        "description": "Completed my Matriculation from Metropolis Academy Main Campus by Sindh Board."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "icon": "/images/home/education-skill/javascript.svg",
+        "rating": 5
+      },
+      {
+        "name": "TypeScript",
+        "icon": "/images/home/education-skill/typescript.svg",
+        "rating": 5
+      },
+      {
+        "name": "Node JS",
+        "icon": "/images/home/education-skill/nodejs.svg",
+        "rating": 5
+      },
+      {
+        "name": "express JS",
+        "icon": "/images/home/education-skill/expressjs.svg",
+        "rating": 5
+      },
+      {
+        "name": "Nest JS",
+        "icon": "/images/home/education-skill/nestjs.svg",
+        "rating": 5
+      },
+      {
+        "name": "React",
+        "icon": "/images/home/education-skill/react.svg",
+        "rating": 3
+      },
+      {
+        "name": "Angular",
+        "icon": "/images/home/education-skill/angular.svg",
+        "rating": 3
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python.svg",
+        "rating": 4
+      },
+      {
+        "name": "Django",
+        "icon": "/images/home/education-skill/django.svg",
+        "rating": 4
+      },
+      {
+        "name": "C#",
+        "icon": "/images/home/education-skill/cs.svg",
+        "rating": 3
+      },
+      {
+        "name": "Postgesql",
+        "icon": "/images/home/education-skill/postgresql.svg",
+        "rating": 5
+      },
+      {
+        "name": "MongoDB",
+        "icon": "/images/home/education-skill/mongodb.svg",
+        "rating": 5
+      },
+      {
+        "name": "MySQL",
+        "icon": "/images/home/education-skill/mysql.svg",
+        "rating": 5
+      },
+      {
+        "name": "aws",
+        "icon": "/images/home/education-skill/aws.svg",
+        "rating": 4
+      },
+      {
+        "name": "Github",
+        "icon": "/images/home/education-skill/github.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/hasan-anwar-55411b196"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "hasanali777h@gmail.com",
+        "link": "mailto:hasanali777h@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+92 319 6181970",
+        "link": "tel:+923196181970"
+      }
+    ]
+  }
+}
