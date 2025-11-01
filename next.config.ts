@@ -1,6 +1,8 @@
 import type { NextConfig } from "next";
 
-const basePath = process.env.NODE_ENV === "production" ? "/Resume-Nextjs" : "";
+// const basePath = process.env.NODE_ENV === "production" ? "/Resume-Nextjs" : "";
+const basePath = "https://github.com/hasanali777h/portfolio.git";
+
 
 const nextConfig: NextConfig = {
   output: "export",
